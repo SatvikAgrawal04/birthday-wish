@@ -30,7 +30,7 @@ const timelineData = [
   {
     image: "/images/mba-garden-ii.jpg",
     description:
-      "And finally here we are with our glow-ups (both physical and mental). I love you Abhishri and will keep loving you forever ❤️",
+      "I loved this day with you... each second in the garden library. I love you Abhishri and will keep loving you forever ❤️",
   },
 ];
 
